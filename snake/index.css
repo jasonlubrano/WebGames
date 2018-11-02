@@ -1,0 +1,16 @@
+body {
+    text-align: center;
+    background: black;
+}
+
+#canvas {
+    border: 5px solid salmon;
+    background: grey;
+}
+
+#start-button {
+    border: 5px solid salmon;
+    padding: 25px;
+    background: lightgreen;
+    font-weight: bold;
+}
